@@ -1,0 +1,6 @@
+-los lenguajes van a ir variando en el tiempo
+-surgirán nuevos lenguajes.
+-lenguajes mas seguros o mas rápidos
+-el objetivo es resolver problemas
+-en el tiempo variará la forma de codificar, estar pendiente de las novedades
+-seguir a referentes

@@ -1,0 +1,6 @@
+el dom es la representación del html en el navegador.
+a través del dom se puede interactuar con el html.
+ cambiar elementos, atributos, estilos...
+
+ document....
+ 
